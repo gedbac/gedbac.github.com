@@ -1,0 +1,38 @@
+html {
+	height: 100%;
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+body {
+	background: #555753;
+	font-family: Arial, serif;
+	height: 100%;
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+nav {
+	position: absolute;
+	width: 100%;
+	top: 50%;
+	margin-top: -73px;
+}
+nav ul {
+	width: 100%;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+nav ul li {
+	width: 100%;
+	list-style-type: none;
+}
+nav a {
+	color: #eeeeec;
+	text-decoration: none;
+	font-size: 28px;
+	display: block;
+	padding: 8px 32px 8px 32px;
+}
+nav a:hover {
+	background: #edd400;
+	color: #555753;
+}
